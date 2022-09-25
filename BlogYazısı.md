@@ -1,3 +1,4 @@
+patika linki:  https://app.patika.dev/sukriyezuran
 ## Veri Bilimi Nedir
  Veri Bilimi, hiç şüphesiz günümüzün en popüler araştırma ve uygulama alanlarının başında geliyor. Peki nedir bu veri dedikleri şey ve veri bilimi nedir?
  
